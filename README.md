@@ -5,7 +5,7 @@ Tento repozitář obsahuje ukázkové kódy z hodin programování v jazyce C#. 
 ## Jak začít
 
    ```bash
-  git clone https://github.com/ErlebachTomas/2024-PRG.git 
+  git clone https://github.com/pslib-studium/PRG-Csharp-2025-P2B.git
 ```
    
 ## Další doporučené výukové materiály
