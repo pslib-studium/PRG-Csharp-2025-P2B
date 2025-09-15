@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-zaklady", "01-zaklady\01-zaklady.csproj", "{79A82F68-88AD-418D-9285-FD8E60E76255}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-datoveTypy", "02-datoveTypy\02-datoveTypy.csproj", "{F15F708B-8411-43A4-863A-45143C579CFC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{79A82F68-88AD-418D-9285-FD8E60E76255}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79A82F68-88AD-418D-9285-FD8E60E76255}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79A82F68-88AD-418D-9285-FD8E60E76255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F15F708B-8411-43A4-863A-45143C579CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15F708B-8411-43A4-863A-45143C579CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15F708B-8411-43A4-863A-45143C579CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15F708B-8411-43A4-863A-45143C579CFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
