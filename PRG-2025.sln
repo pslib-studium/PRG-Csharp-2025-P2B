@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-datoveTypy", "02-datoveT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-operatory", "03-operatory\03-operatory.csproj", "{7B6E2A23-FD95-4113-A983-E37ED7E76D0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-Podprogramy", "04-Podprogramy\04-Podprogramy.csproj", "{98895945-9634-4FAF-9B22-8BE1C9407A6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{7B6E2A23-FD95-4113-A983-E37ED7E76D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B6E2A23-FD95-4113-A983-E37ED7E76D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B6E2A23-FD95-4113-A983-E37ED7E76D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98895945-9634-4FAF-9B22-8BE1C9407A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98895945-9634-4FAF-9B22-8BE1C9407A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98895945-9634-4FAF-9B22-8BE1C9407A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98895945-9634-4FAF-9B22-8BE1C9407A6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
