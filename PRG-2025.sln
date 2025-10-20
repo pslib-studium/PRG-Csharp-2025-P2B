@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-operatory", "03-operator
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-Podprogramy", "04-Podprogramy\04-Podprogramy.csproj", "{98895945-9634-4FAF-9B22-8BE1C9407A6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-Pole", "05-Pole\05-Pole.csproj", "{1AEFFCD5-23AF-4D3A-801B-4036B7371FED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-PráceSPolem", "06-PráceSPolem\06-PráceSPolem.csproj", "{9025EFD7-85E4-4EA6-BC0A-21E95F486A2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{98895945-9634-4FAF-9B22-8BE1C9407A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98895945-9634-4FAF-9B22-8BE1C9407A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98895945-9634-4FAF-9B22-8BE1C9407A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AEFFCD5-23AF-4D3A-801B-4036B7371FED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AEFFCD5-23AF-4D3A-801B-4036B7371FED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AEFFCD5-23AF-4D3A-801B-4036B7371FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AEFFCD5-23AF-4D3A-801B-4036B7371FED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9025EFD7-85E4-4EA6-BC0A-21E95F486A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9025EFD7-85E4-4EA6-BC0A-21E95F486A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9025EFD7-85E4-4EA6-BC0A-21E95F486A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9025EFD7-85E4-4EA6-BC0A-21E95F486A2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
