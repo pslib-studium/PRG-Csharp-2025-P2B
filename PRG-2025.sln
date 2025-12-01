@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-vyjimky", "07-vyjimky\07
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-trida", "08-trida\08-trida.csproj", "{BDD2657C-E000-4159-9710-8E48044BA660}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-statika", "09-statika\09-statika.csproj", "{E729FC39-D17F-439F-B565-EDD9453D2555}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{BDD2657C-E000-4159-9710-8E48044BA660}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDD2657C-E000-4159-9710-8E48044BA660}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDD2657C-E000-4159-9710-8E48044BA660}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E729FC39-D17F-439F-B565-EDD9453D2555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E729FC39-D17F-439F-B565-EDD9453D2555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E729FC39-D17F-439F-B565-EDD9453D2555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E729FC39-D17F-439F-B565-EDD9453D2555}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
