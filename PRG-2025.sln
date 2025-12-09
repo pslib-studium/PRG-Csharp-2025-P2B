@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-statika", "09-statika\09
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-Dedicnost", "10-Dedicnost\10-Dedicnost.csproj", "{4C744346-71BA-4B96-92D4-74C6135202EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-polymorfismus", "11-polymorfismus\11-polymorfismus.csproj", "{477290C9-D6DB-486F-84EC-5C91D54DB6E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{4C744346-71BA-4B96-92D4-74C6135202EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C744346-71BA-4B96-92D4-74C6135202EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C744346-71BA-4B96-92D4-74C6135202EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{477290C9-D6DB-486F-84EC-5C91D54DB6E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{477290C9-D6DB-486F-84EC-5C91D54DB6E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{477290C9-D6DB-486F-84EC-5C91D54DB6E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{477290C9-D6DB-486F-84EC-5C91D54DB6E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
