@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-Interface", "12-Interfac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-Abstrakce", "13-Abstrakce\13-Abstrakce.csproj", "{73AB6D86-6BA3-4352-A1CB-AAB1A2E22E0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-PretizeniOperatoru", "14-PretizeniOperatoru\14-PretizeniOperatoru.csproj", "{9285ABFC-D959-4C14-8CA6-7D75914EE7BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{73AB6D86-6BA3-4352-A1CB-AAB1A2E22E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73AB6D86-6BA3-4352-A1CB-AAB1A2E22E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73AB6D86-6BA3-4352-A1CB-AAB1A2E22E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9285ABFC-D959-4C14-8CA6-7D75914EE7BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9285ABFC-D959-4C14-8CA6-7D75914EE7BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9285ABFC-D959-4C14-8CA6-7D75914EE7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9285ABFC-D959-4C14-8CA6-7D75914EE7BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
