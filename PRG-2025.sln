@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-Generika", "15-Generika\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-Kolekce", "16-Kolekce\16-Kolekce.csproj", "{CD2B016C-5B52-4EC0-A45C-45ACE5AAFD3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-Delegat", "17-Delegat\17-Delegat.csproj", "{6997FA52-1E2C-4F4C-809C-5CD4B3BE4AAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{CD2B016C-5B52-4EC0-A45C-45ACE5AAFD3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD2B016C-5B52-4EC0-A45C-45ACE5AAFD3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD2B016C-5B52-4EC0-A45C-45ACE5AAFD3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6997FA52-1E2C-4F4C-809C-5CD4B3BE4AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6997FA52-1E2C-4F4C-809C-5CD4B3BE4AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6997FA52-1E2C-4F4C-809C-5CD4B3BE4AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6997FA52-1E2C-4F4C-809C-5CD4B3BE4AAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
