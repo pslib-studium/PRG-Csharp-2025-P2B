@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-PretizeniOperatoru", "14
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-Generika", "15-Generika\15-Generika.csproj", "{8EC3C044-F692-4229-92F6-C457A8588A8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-Kolekce", "16-Kolekce\16-Kolekce.csproj", "{CD2B016C-5B52-4EC0-A45C-45ACE5AAFD3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{8EC3C044-F692-4229-92F6-C457A8588A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EC3C044-F692-4229-92F6-C457A8588A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EC3C044-F692-4229-92F6-C457A8588A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD2B016C-5B52-4EC0-A45C-45ACE5AAFD3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD2B016C-5B52-4EC0-A45C-45ACE5AAFD3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD2B016C-5B52-4EC0-A45C-45ACE5AAFD3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD2B016C-5B52-4EC0-A45C-45ACE5AAFD3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
